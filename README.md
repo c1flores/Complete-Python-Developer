@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Complete Python Developer: Zero to Mastery
+# Complete Python Developer
 <!-- omit in toc -->
 ## Table of Contents
 - [Overview](#overview)
