@@ -20,7 +20,6 @@ The course is structured into various sections, each focusing on different aspec
 
 | Section | Description |
 |---------|-------------|
-| Introduction | Introduction to the course and Python programming |
 | Python Introduction | Basics of Python and setting up the development environment |
 | Python Basics | Fundamental concepts and syntax of Python |
 | Python Basics 2 | Advanced Python concepts and flow control |

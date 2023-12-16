@@ -2,7 +2,15 @@
 # Complete Python Developer
 <!-- omit in toc -->
 ## Table of Contents
+- [What is a Programming Language](#what-is-a-programming-language)
+- [Python Interpreter](#python-interpreter)
+- [How to Run Python Code](#how-to-run-python-code)
+- [Latest Version of Python](#latest-version-of-python)
+- [Our First Python Program](#our-first-python-program)
+- [Python2 vs, Python3](#python2-vs-python3)
+- [Why So Many Languages](#why-so-many-languages)
 
+<br />
 
 ## What is a Programming Language
 In the journey of becoming a Python developer, it's crucial to understand the fundamental question: What is a programming language? At its core, a programming language is a set of instructions that can be understood by a computer. It's a bridge between human logic and machine operations, enabling us to communicate complex ideas and algorithms in a way that machines can execute.To appreciate this bridge, imagine you have an idea or a task you wish to accomplish—like finding flights to Bali. You know what you want to do, but how do you communicate this to a computer?
@@ -100,6 +108,5 @@ Understanding how the interpreter works is essential because it affects how you 
 
 ## Why So Many Languages
 
-## Exercise: How Does the Python Work?
 
 
